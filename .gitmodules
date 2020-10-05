@@ -1,0 +1,6 @@
+[submodule "Librairie"]
+	path = Librairie
+	url = git@github.com:Cours-E2/Librairie.git
+[submodule "Server"]
+	path = Server
+	url = git@github.com:Cours-E2/Server.git
