@@ -4,3 +4,12 @@
 [submodule "Server"]
 	path = Server
 	url = git@github.com:Cours-E2/Server.git
+[submodule "clt"]
+	path = clt
+	url = git@github.com:Cours-E2/Client.git
+[submodule "srv"]
+	path = srv
+	url = git@github.com:Cours-E2/Server.git
+[submodule "lib"]
+	path = lib
+	url = git@github.com:Cours-E2/Librairie.git
